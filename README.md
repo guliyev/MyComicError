@@ -1,0 +1,2 @@
+# MyComicError
+Funny Error Console
